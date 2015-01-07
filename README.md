@@ -2,8 +2,8 @@
 une demo de git
 
 
-Je modifie mon fichier readme avec GIT pour la première fois !
+Je modifie mon hfzuidzu fichier readme avec GIT  la première fois !
 
-On modifie depuis GitHub
+On modifie depuis GitHub JE CHANGE DES CHOSES SUR GITHUB
 
 mais aussi depuis ma machine locale
